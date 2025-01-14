@@ -1,0 +1,1 @@
+This example demonstrates an uncommon HTML error related to using innerHTML incorrectly. The original code attempts to directly set the innerHTML of a div element with HTML tags.  This can cause vulnerabilities or unexpected behavior.  The solution showcases the use of DOM methods to create and append the new content safely.
